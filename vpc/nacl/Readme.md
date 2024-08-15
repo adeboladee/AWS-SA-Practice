@@ -29,3 +29,4 @@ aws ec2 describe-images \
 --region ca-central-1 \
  --output text
 ```
+
